@@ -1,0 +1,13 @@
+double x= 12.34;
+ 
+void setup() {
+
+Serial.begin(9600);
+ 
+}
+ 
+void loop() {
+  
+  Serial.println(x);//data that is being Sent
+  delay(1000);
+}
