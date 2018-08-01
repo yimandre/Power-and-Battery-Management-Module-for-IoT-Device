@@ -5,9 +5,6 @@ import time
 import datetime
 import argparse
 
-#JuneLooi
-#Uploading data to the server
-
 batt1=90 #
 batt2=80 #
 batt3=20 
